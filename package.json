@@ -1,0 +1,22 @@
+{
+  "name": "comtjs",
+  "version": "1.0.0",
+  "description": "tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/516449261/comtJS.git"
+  },
+  "keywords": [
+    "comtjs"
+  ],
+  "author": "516449261@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/516449261/comtJS/issues"
+  },
+  "homepage": "https://github.com/516449261/comtJS#readme"
+}
